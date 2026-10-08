@@ -1,22 +1,36 @@
 # PythonLearning
-### Hello! This is a documentation of my learning on python. This repo will more or less act as a glorified nutshell textbook of python!
+### Hello! This is a documentation of my learning on python. This repository will more or less act as a glorified textbook nutshell of python!
 
 ## LESSONS:
-** -Lesson 1: Variables**
-** -Lesson 2: Data Types & string manipulation**
-** -Lesson 3: Mathematical Operations**
-** -Lesson 4: Error Handling**
-** -Lesson 5: Conditional logic & Selection**
-** -Lesson 6: Logical Operators**
-** -Lesson 7: Definite iteration**
-** -Lesson 8: Indefinite iteration**
-** -Lesson 9: List & Array Mutations**
-** -Lesson 10: Tuples vs Lists**
-** -Lesson 11: Dictionairies**
-** -Lesson 12: Defining custom Functions & Parameter Passing**
-** -Lesson 13: Variable scope**
-** -Lesson 14: Input Validation & Defensive coding**
-** -Lesson 15: File I/O Handling**
+**-Lesson 1:** Variables
+
+**-Lesson 2:** Data Types & string manipulation
+
+**-Lesson 3:** Mathematical Operations
+
+**-Lesson 4:** Error Handling
+
+**-Lesson 5:** Conditional logic & Selection
+
+**-Lesson 6:** Logical Operators
+
+**-Lesson 7:** Definite iteration
+
+**-Lesson 8:** Indefinite iteration
+
+**-Lesson 9:** List & Array Mutations
+
+**-Lesson 10:** Tuples vs Lists
+
+**-Lesson 11:** Dictionairies
+
+**-Lesson 12:** Defining custom Functions & Parameter Passing
+
+**-Lesson 13:** Variable scope
+
+**-Lesson 14:** Input Validation & Defensive coding
+
+**-Lesson 15:** File I/O Handling
 
 ## LESSON 1- Variables
 
