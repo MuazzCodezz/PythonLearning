@@ -1,5 +1,5 @@
 # PythonLearning
-### Hello! This is a documentation of my learning on python. This repository will more or less act as a glorified textbook nutshell of python!
+### Hello! This is a documentation of my learning on Python. This repository will act as a complete learning guide and reference curiculum, explaining programming concepts in a nutshell!
 
 ## LESSONS:
 **-Lesson 1:** Variables
@@ -22,7 +22,7 @@
 
 **-Lesson 10:** Tuples vs Lists
 
-**-Lesson 11:** Dictionairies
+**-Lesson 11:** Dictionaries
 
 **-Lesson 12:** Defining custom Functions & Parameter Passing
 
