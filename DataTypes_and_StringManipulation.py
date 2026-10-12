@@ -90,3 +90,5 @@ print("SwordArtOnline".startswith("S"))
 
 #Endswith
 print("SwordArtOnline".endswith("e"))
+
+#Content Verification
