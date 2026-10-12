@@ -1,5 +1,5 @@
-# Lesson 2- DataTypes % String_Manipulation
-
+# Lesson 2- DataTypes & String_Manipulation
+'''
 #String (str)
 # String must always be in quotation!
 name = "Muaz"
@@ -21,3 +21,72 @@ age_is_16 = (answer == "True")
 
 #None (NoneType)
 test_results = None
+'''
+
+#String Manipulation
+
+#Case modification
+
+#Upper
+print("hello".upper())
+favgame = input("Enter your favourite game").upper()
+print(favgame)
+
+#Lower
+print("hello".lower())
+favdrink = input("Enter your your favourite drink").lower()
+print(favdrink)
+
+#Title
+print("hello".title())
+name = input("Enter your name").title()
+print(name)
+
+#capitalize
+print("hello world!".capitalize())
+
+#swapcase
+print("pYTHON".swapcase())
+
+#Cleaning and trimming
+
+#strip
+print(" python ".strip())
+
+#lstrip
+print(" python ".lstrip())
+
+#rstrip
+print(" python ".rstrip())
+
+#removeprefix
+print("https://GitHub.com".removeprefix("https://"))
+
+#removesuffix
+print("DataTypes_and_StringManipulation.py".removesuffix(".py"))
+
+#Splitting and Joining
+
+#split
+print("Zelda-Genshin-Honkai".split("-"))
+
+#splitlines
+print("Zelda\nGenshin\n".splitlines())
+
+#join
+print(" ".join(["Genshin", "Impact"]))
+
+#Search and Inspection
+print("Honkai" in "Honkai impact 3rd")
+
+#Find
+print("Honkai".find("a"))
+
+#Count
+print("Honkai Star Rail".count("a"))
+
+#Starswith
+print("SwordArtOnline".startswith("S"))
+
+#Endswith
+print("SwordArtOnline".endswith("e"))
