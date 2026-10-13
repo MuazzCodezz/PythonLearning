@@ -104,3 +104,32 @@ print("5103".isdigit())
 #isspace
 print(" ".isspace())
 
+#Substrings and slicing
+
+#Slicing
+print("Zelda"[0:2])
+
+#Reversing
+print("live"[::-1])
+
+#Advanced Alterations
+print("Zelda".replace("a", "o"))
+
+#Partition
+print("genshin-honkai-zelda".partition("-"))
+
+#Formatting and Padding
+
+#F-strings
+name = "Muaz"
+f"Hi, {name}"
+
+#zfill
+"16".zfill(5)
+
+#ljust/ rjust
+"Mario".ljust(5, "-")
+"Link".rjust(5, "-")
+
+#Center
+"Muaz".center(6, "-")
