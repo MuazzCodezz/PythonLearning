@@ -34,7 +34,7 @@ print(favgame)
 
 #Lower
 print("hello".lower())
-favdrink = input("Enter your your favourite drink").lower()
+favdrink = input("Enter your favourite drink").lower()
 print(favdrink)
 
 #Title
@@ -85,10 +85,22 @@ print("Honkai".find("a"))
 #Count
 print("Honkai Star Rail".count("a"))
 
-#Starswith
+#Startswith
 print("SwordArtOnline".startswith("S"))
 
 #Endswith
 print("SwordArtOnline".endswith("e"))
 
 #Content Verification
+#isalnum
+print("HonkaiImpact3rd".isalnum())
+
+#isalpha
+print("Zelda".isalpha())
+
+#isdigit
+print("5103".isdigit())
+
+#isspace
+print(" ".isspace())
+
