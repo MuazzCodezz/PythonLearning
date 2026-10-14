@@ -122,14 +122,14 @@ print("genshin-honkai-zelda".partition("-"))
 
 #F-strings
 name = "Muaz"
-f"Hi, {name}"
+print(f"Hi, {name}")
 
 #zfill
-"16".zfill(5)
+print("16".zfill(5))
 
 #ljust/ rjust
-"Mario".ljust(5, "-")
-"Link".rjust(5, "-")
+print("Mario".ljust(5, "-"))
+print("Link".rjust(5, "-"))
 
 #Center
-"Muaz".center(6, "-")
+print("Muaz".center(6, "-"))
