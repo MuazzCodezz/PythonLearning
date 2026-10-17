@@ -42,6 +42,8 @@
 
 ## Lesson 2- Data Types & string-manipulation
 
+### Data Types
+
 **Data types** are labels for your data, if a variable is a container a data type tells python **exactly what kind of item** is inside.
 
 **Strings** represent **text**, *input* naturally defaults to string, this  is the data type the human mind understands best.
@@ -55,3 +57,11 @@
 **Booleans** represent **true** or **false**. Think of boolean as a **fork in the road**. One of two choices leading to a different result.
 
 **None** represents the **absence of data**. It is a placeholder for a value you dont know yet. Like your test score before the results are released.
+
+### String Manipulation
+
+**Upper & Lower:** *Upper* changes all letters in your text to **ALL CAPS** whereas *lower* changes all letters to **lower case**.
+
+**Title & Capitalize:** *capitalizse* only makes the very **first letter** of the whole text uppercase wheras *title* makes the **first letter** of **every word** uppercase.
+
+**Swapcase:** *swapcase* **flips every letter** to its opposite, turning upper to lower and lower to upper.
