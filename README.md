@@ -48,7 +48,7 @@
 
 **Strings** represent **text**, *input* naturally defaults to string, this  is the data type the human mind understands best.
 
-**String manipulation** is essentially **Python literacy**. You will use it in every project, just like writing explanatory notes in a math assignment.
+**String-manipulation** is essentially **Python literacy**. You will use it in every project, just like writing explanatory notes in a math assignment.
 
 **Integers** represent **whole numbers**. They are the foundation for any basic mathematical operation.
 
@@ -58,11 +58,11 @@
 
 **None** represents the **absence of data**. It is a placeholder for a value you dont know yet. Like your test score before the results are released.
 
-### String Manipulation
+### String-Manipulation
 
 **Upper & Lower:** *Upper* changes all letters in your text to **ALL CAPS** whereas *lower* changes all letters to **lower case**.
 
-**Title & Capitalize:** *capitalizse* only makes the very **first letter** of the whole text uppercase wheras *title* makes the **first letter** of **every word** uppercase.
+**Title & Capitalize:** *capitalize* only makes the very **first letter** of the whole text uppercase whereas *title* makes the **first letter** of **every word** uppercase.
 
 **Swapcase:** *swapcase* **flips every letter** to its opposite, turning upper to lower and lower to upper.
 
@@ -70,9 +70,9 @@
 
 **Removeprefix & Removesuffix:** *removeprefix* **removes** letters or words if they appear at the very **start** whereas *removesuffix* removes at the very **end**.
 
-**Split & Splitlines:** *split* **cuts** your text into **pieces** whereever it finds a **divider** whereas *splitlines* **breaks** your text apart only where a **new line** occurs.
+**Split & Splitlines:** *split* **cuts** your text into **pieces** wherever it finds a **divider** whereas *splitlines* **breaks** your text apart only where a **new line** occurs.
 
-**Join:** *join* **glues** a list of **seperate pieces** back together into one **single** text.
+**Join:** *join* **glues** a list of **separate pieces** back together into one **single** text.
 
 **Find & Count:** *find* **looks** for a **specific** word and **reveals** the **exact position** whereas *count* **tallies** up how **many times** that word appears.
 
