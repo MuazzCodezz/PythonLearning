@@ -71,3 +71,9 @@
 **Removeprefix & Removesuffix:** *removeprefix* **removes** letters or words if they appear at the very **start** whereas *removesuffix* removes at the very **end**.
 
 **Split & Splitlines:** *split* **cuts** your text into **pieces** whereever it finds a **divider** whereas *splitlines* **breaks** your text apart only where a **new line** occurs.
+
+**Join:** *join* **glues** a list of **seperate pieces** back together into one **single** text.
+
+**Find & Count:** *find* **looks** for a **specific** word and **reveals** the **exact position** whereas *count* **tallies** up how **many times** that word appears.
+
+**Startswith & Endswith:** *startswith* checks if your text **begins** with a **specific set of letters** whereas *endswith* does this but for the very **end** to see if it **ends** with them.
