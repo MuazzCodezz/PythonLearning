@@ -65,3 +65,9 @@
 **Title & Capitalize:** *capitalizse* only makes the very **first letter** of the whole text uppercase wheras *title* makes the **first letter** of **every word** uppercase.
 
 **Swapcase:** *swapcase* **flips every letter** to its opposite, turning upper to lower and lower to upper.
+
+**Strip, Lstrip & Rstrip:** *strip* **removes all** the **empty spaces** from both beginning and end. *lstrip/rstrip* remove spaces from the **left** or **right**.
+
+**Removeprefix & Removesuffix:** *removeprefix* **removes** letters or words if they appear at the very **start** whereas *removesuffix* removes at the very **end**.
+
+**Split & Splitlines:** *split* **cuts** your text into **pieces** whereever it finds a **divider** whereas *splitlines* **breaks** your text apart only where a **new line** occurs.
