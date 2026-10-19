@@ -90,3 +90,6 @@
 
 **F-strings:** *F-strings* allow you to **dynamically plug variables** and **math** directly inside your text using curly brackets.
 
+**Zfill:** *Zfill* adds **zeroes** to the **left side** of your text until it reaches the **specific length** you want.
+
+**Ljust, Rjust & Center:** *Ljust* and *Rjust* push your text to the **left or right side** while filling the remaining spaces with blank spots *center* does the **exact same thing** but keeps your text in the middle.
