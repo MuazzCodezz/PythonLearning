@@ -77,3 +77,7 @@
 **Find & Count:** *find* **looks** for a **specific** word and **reveals** the **exact position** whereas *count* **tallies** up how **many times** that word appears.
 
 **Startswith & Endswith:** *startswith* checks if your text **begins** with a **specific set of letters** whereas *endswith* does this but for the very **end** to see if it **ends** with them.
+
+**Isalnum & Isalpha:** *Isalnum* checks if your text contains **only letters and numbers** without any symbols or spaces whereas *Isalpha* checks if your text contaions **only letters**.
+
+**Isdigit & Isspace:** *Isdigit* checks your text to make sure it contains **nothing but numbers** whereas *Isspace* checks your text to make sure its **only empty spaces, tabs or newlines**.
