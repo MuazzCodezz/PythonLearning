@@ -81,3 +81,9 @@
 **Isalnum & Isalpha:** *Isalnum* checks if your text contains **only letters and numbers** without any symbols or spaces whereas *Isalpha* checks if your text contaions **only letters**.
 
 **Isdigit & Isspace:** *Isdigit* checks your text to make sure it contains **nothing but numbers** whereas *Isspace* checks your text to make sure its **only empty spaces, tabs or newlines**.
+
+**Slicing & Reversing:** *Slicing* allows you to **grab a specific section** of your text by **defining exactly where** to start and end whereas *Reversing* **flips** your entire text **backwards** from last letter to first.
+
+**Advanced alterations:** *Advanced alterations* involve using methods like replace to **swap out specific words or letters** for something **entirely new**
+
+**Partition:** 
