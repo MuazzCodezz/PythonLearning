@@ -86,4 +86,7 @@
 
 **Advanced alterations:** *Advanced alterations* involve using methods like replace to **swap out specific words or letters** for something **entirely new**
 
-**Partition:** 
+**Partition:** *Partition* **cuts** your text into **three distinct pieces** based on a **specific divider word** you choose, it seperates everything **before** the divider, the divder **itself** and everything **after**.
+
+**F-strings:** *F-strings* allow you to **dynamically plug variables** and **math** directly inside your text using curly brackets.
+
