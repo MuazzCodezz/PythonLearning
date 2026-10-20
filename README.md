@@ -93,3 +93,23 @@
 **Zfill:** *Zfill* adds **zeroes** to the **left side** of your text until it reaches the **specific length** you want.
 
 **Ljust, Rjust & Center:** *Ljust* and *Rjust* push your text to the **left or right side** while filling the remaining spaces with blank spots *center* does the **exact same thing** but keeps your text in the middle.
+
+## Lesson 3- Mathematical Operations
+
+**Mathematical Operations** are the calculators of your code if variables are containers holding numbers, operators are the actions that **combine, split or alter** those numbers to get a new result.
+
+### Core Operators
+
+**Addition(+):** **Glues** numbers together for a **total sum**
+
+**Subtraction(-):** **Takes** a number away from the other to find the **difference** between them
+
+**Multiplication(*):** **Multiplies** numbers. In coding we use asterisk instead of an x
+
+**True Division(/):** **Divides** numbers normally but always transforms answer into a **float (decimal)** even if the numbers are divided perfectly
+
+**Floor Division(//):** **Divides** numbers but **ignores the decimal remainder** keeping the answer as an **integer (whole number)**
+
+**Modulo(%):** **Divides** numbers but **only keeps the remainder**
+
+**Exponentiation(\*\*):** **Raises** base number to the **power of another number**
