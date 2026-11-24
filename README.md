@@ -113,3 +113,10 @@
 **Modulo(%):** **Divides** numbers but **only keeps the remainder**
 
 **Exponentiation(\*\*):** **Raises** base number to the **power of another number**
+
+## Lesson 4- Error Handling
+**Error Handling** is the **safety net** for your code to **prevent** it from **crashing** when something goes wrong. A program is defined by how it **runs, fails and recovers**, errors can happen for **ANY** reason such as bad user input or something missing. Error handling lets the code **catch** the problems.
+
+*Try* is a block of code that the program **attempts** to run first. *Try* would be used for times code **might fail** depending on what happens while running. For example writing a number for a *int(input())*.
+
+*Except* is the backup code that runs **only if** an error occurs inside *Try*. *Except* would be used for when you want to handle a mistake smoothly instead of **crashing**. For example someone writes hello instead of a number.
